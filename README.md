@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">Frontend developer from Pakistan</h3>
 <img src="https://camo.githubusercontent.com/9e0ce17e74aa75d58d27b5f026d2f968115d7a17f19ef8d9cfbbd61044a729b6/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f7768795f342d64626636306631363061636230633666323263363236306264336138633662352e676966">
